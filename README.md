@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 16, 2017
 
 ### Student Name:  
-(First and Last Name)
+Gillian Kamerer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment teaches students how to use Javascript in more detail than Lesson 4, and how to use different statments to cause different outcomes. You must infer which words/numbers to change to get the proper results. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://gilliankamerer.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Arrays are just like a title next to spaced out notes: they keep things looking clean and keep data in order for later (easy) review. 
+2. When you add an "if" statement, it specifies what to do when data entered meets a certain condition.
+3. "Break" statements allow you to end the previous looping statement such as "while" or "do/while". 
 
